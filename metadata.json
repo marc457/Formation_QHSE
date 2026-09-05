@@ -1,0 +1,6 @@
+{
+  "name": "Quart d'Heure Sécurité",
+  "description": "Application interactive d'animation, de génération IA et d'émargement pour les Quarts d'Heure et Causeries Sécurité en entreprise et sur chantier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
